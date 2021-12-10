@@ -1,0 +1,12 @@
+{
+	"name": "SalesforceObject",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "CHHpartialcpy",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SalesforceObject",
+		"schema": []
+	}
+}
