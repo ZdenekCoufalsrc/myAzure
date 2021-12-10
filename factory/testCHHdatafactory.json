@@ -1,0 +1,9 @@
+{
+	"name": "testCHHdatafactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8cde00a4-dac6-4489-a8e2-80b2e7551f71",
+		"tenantId": "f30e0db6-860e-4025-b005-b0dbb0d6465c"
+	}
+}
