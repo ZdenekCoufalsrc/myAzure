@@ -42,7 +42,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "AzureSqlTable1",
+						"referenceName": "AzureSqlDB_Users",
 						"type": "DatasetReference"
 					}
 				]
