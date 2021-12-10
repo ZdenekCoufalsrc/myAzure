@@ -1,0 +1,12 @@
+{
+	"name": "SalesforceObject",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Salesforce_pcpy",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SalesforceObject",
+		"schema": []
+	}
+}
